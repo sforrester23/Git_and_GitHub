@@ -21,7 +21,7 @@ GitBash is a way to use Git on Windows operating systems, providing an emulation
 - $ cd ~ : goes to the top of the directory
 - $ rm <file.extension> : remove <file name> - removes file from directory
 - $ rm -rf <directory_name> : remove directory through recursive force
-- $ git remote add origin git@github.com:<GitHub_username>/<repository_name>.git : adds a remote connection to the repository from the directory of the name "origin"
+- $ git remote add <remote_name> git@github.com:<GitHub_username>/<repository_name>.git : adds a remote connection to the repository from the directory of name <remote_name>
 - $ git remote --v : displays the status of the remote, whether or not it exists
 - $ rm remote <remote_name> -rf : removes a remote by recursive force
 - $ git init : initialises the git tracking procedure, becoming the 'master' copy
