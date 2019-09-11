@@ -30,4 +30,4 @@ GitBash is a way to use Git on Windows operating systems, providing an emulation
 - $ git push origin master : pushes the working copy to the repository using the remote
 - $ git log : shows a log of the commits made in this session on that remote
 - $ git status : gives a status of current commits that are ready to be pushed to the repository
-- $ rm commit <code> : removes commits with code <code> obtained from git log, provided they haven't been pushed to repository
+- $ rm commit <commit code> : removes commits with code <commit code> obtained from git log, provided they haven't been pushed to repository
