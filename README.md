@@ -33,4 +33,4 @@ GitBash is a way to use Git on Windows operating systems, providing an emulation
 
 ## Git.ignore file
 
-a git.ignore file tells git which files (or patterns) it should ignore. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators, such as compilation products, temporary files IDEs create, etc.
+A git.ignore file tells git which files (or patterns) it should ignore. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators, such as compilation products, temporary files IDEs create, etc.
