@@ -32,3 +32,5 @@ GitBash is a way to use Git on Windows operating systems, providing an emulation
 - $ git status : gives a status of current commits that are ready to be pushed to the repository
 
 ## Git.ignore file
+
+a git.ignore file tells git which files (or patterns) it should ignore. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators, such as compilation products, temporary files IDEs create, etc.
